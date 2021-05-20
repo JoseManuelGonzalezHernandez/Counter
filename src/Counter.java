@@ -44,7 +44,6 @@ public class Counter {
         
         if (this.counter > this.valLimit) {
             this.counter = valInicial;
-        } else {
             System.out.println("Se ha superado el valor límite, reiniciando al valor inicial...");
         }
     }
