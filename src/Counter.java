@@ -41,6 +41,9 @@ public class Counter {
 
     public void doCounter() {
         this.counter += this.valIncrement;
+        if (this.counter > this.valLimit) {
+            this.counter = valInicial;
+        }
     }
 
     public void resetCounter() {
