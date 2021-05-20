@@ -33,6 +33,12 @@ public class Counter {
         this.valLimit = valLimit;
     }
 
+    public Counter(int valLimit) {
+        this.valInicial = 0;
+        this.valIncrement = 1;
+        this.valLimit = valLimit;
+    }
+
     public int [] getVals() {
         int [] vals = {getValInicial(), getValIncrement(), getValLimit()};
         return vals;
