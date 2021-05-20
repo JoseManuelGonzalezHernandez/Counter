@@ -11,7 +11,7 @@ public class counterTest {
 
         assertEquals(valExpected, counter.getVals());
     }
-
+    @Test
     public void testCreateWithDefaultValue() {
         
         Counter counter = new Counter(10);
@@ -20,7 +20,7 @@ public class counterTest {
 
         assertEquals(valExpected, counter.getVals());
     }
-
+    @Test
     public void testValueCounter() {
         Counter counter = new Counter(10);
 
@@ -47,7 +47,7 @@ public class counterTest {
 
         counter2.resetCounter();
     }
-
+    @Test
     public void testLimit() {
         Counter counter = new Counter(10);
 
@@ -57,7 +57,7 @@ public class counterTest {
 
         assertEquals(counter.valInicial, counter.counter);
     }
-
+    @Test
     public void testAlertLimit() {
         Counter counter = new Counter(10);
 

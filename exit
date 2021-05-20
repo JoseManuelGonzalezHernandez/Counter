@@ -1,0 +1,59 @@
+[33mcommit 0720d5298a51de9588925c5fe0c37e56b3db9024[m[33m ([m[1;36mHEAD -> [m[1;32mdoc[m[33m)[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 12:42:23 2021 +0100
+
+    Se ha arreglado el código y pasa la prueba
+
+[33mcommit 2a67a1b7873819851b5a375a3de3858223052d0f[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 12:41:45 2021 +0100
+
+    Se ha realizado la prueba testAlertLimit fallida
+
+[33mcommit 36e2dd03ab88593f4ea6fe6656f93b842a8cb967[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 12:40:09 2021 +0100
+
+    Se ha arreglado el código y pasa la prueba
+
+[33mcommit 5d78ac3005f8330d59ffc85727ce2f39c13fa183[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 12:38:51 2021 +0100
+
+    Se ha realizado la prueba testLimit fallida
+
+[33mcommit b0e6c9f190197f9be35ec8d0b8fe187889ebc463[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 12:34:31 2021 +0100
+
+    Se ha arreglado el código y pasa la prueba
+
+[33mcommit e79e7a0d29f06abc1d95ff62e7c5682fe021b73a[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 12:33:55 2021 +0100
+
+    Se ha realizado la prueba testValueCounter fallida
+
+[33mcommit 76a8eedc4afc167ab4fe20cf15c02f6f382770a9[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 12:03:39 2021 +0100
+
+    Se ha arreglado el código y pasa la prueba
+
+[33mcommit b11dfd1f8d7e3cbbfbc5224d77d10de60c850b8a[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 12:02:48 2021 +0100
+
+    Realizando la prueba testCreateWithDefaultValue fallida
+
+[33mcommit 78abd25f7de60134db158f69a808a07c54fdac88[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 12:00:25 2021 +0100
+
+    Se ha arreglado el código y pasa la prueba
+
+[33mcommit 699571a57a0b49ad22179ff809e0a31d424c9e4f[m[33m ([m[1;31mprt1/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: José Manuel González Hernández <usr2275@salesianos-lacuesta.net>
+Date:   Thu May 20 11:56:05 2021 +0100
+
+    Creando el repositorio de la práctica
