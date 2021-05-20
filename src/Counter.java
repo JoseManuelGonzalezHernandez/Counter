@@ -34,7 +34,7 @@ public class Counter {
     }
 
     public int [] getVals() {
-        int [] vals = {getValIncrement(), getValInicial(), getValLimit()};
+        int [] vals = {getValInicial(), getValIncrement(), getValLimit()};
         return vals;
     }
     public static void main(String[] args) {
