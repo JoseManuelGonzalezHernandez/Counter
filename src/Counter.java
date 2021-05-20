@@ -41,8 +41,11 @@ public class Counter {
 
     public void doCounter() {
         this.counter += this.valIncrement;
+        
         if (this.counter > this.valLimit) {
             this.counter = valInicial;
+        } else {
+            System.out.println("Se ha superado el valor límite, reiniciando al valor inicial...");
         }
     }
 

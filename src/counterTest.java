@@ -57,4 +57,14 @@ public class counterTest {
 
         assertEquals(counter.valInicial, counter.counter);
     }
+
+    public void testAlertLimit() {
+        Counter counter = new Counter(10);
+
+        for (int i = 0; i <= counter.valLimit; i++) {
+            counter.doCounter();
+        }
+
+        assertEquals(counter.valInicial, counter.counter);
+    }
 }
