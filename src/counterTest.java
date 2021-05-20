@@ -11,4 +11,13 @@ public class counterTest {
 
         assertEquals(valExpected, counter.getVals());
     }
+
+    public void testCreateWithDefaultValue() {
+        
+        Counter counter = new Counter(10);
+
+        int [] valExpected = {0 , 1 , 10};
+
+        assertEquals(valExpected, counter.getVals());
+    }
 }
