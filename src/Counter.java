@@ -44,7 +44,7 @@ public class Counter {
     }
 
     public void resetCounter() {
-        this.counter += valInicial;
+        this.counter = valInicial;
     }
 }
 
