@@ -46,6 +46,15 @@ public class counterTest {
         assertEquals(3,counter2.counter);
 
         counter2.resetCounter();
+    }
 
+    public void testLimit() {
+        Counter counter = new Counter(10);
+
+        for (int i = 0; i <= counter.valLimit; i++) {
+            counter.doCounter();
+        }
+
+        assertEquals(counter.valInicial, counter.counter);
     }
 }
